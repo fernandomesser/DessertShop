@@ -1,1 +1,3 @@
+candy shop application utilizing OOP principles. The application incorporates various types of candies, calculates taxes,
+and generates order receipts.
 Main method is in the DessertShop.java file
